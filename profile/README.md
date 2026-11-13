@@ -6,5 +6,5 @@ Experiencia completa solo en directo.<br>
 </p>
 
 <p align="center">
-  <img src="letrina.jpeg" alt="LETRINA">
+  <img src="../letrina.jpeg" alt="LETRINA">
 </p>
