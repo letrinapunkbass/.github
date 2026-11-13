@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="../letrina.jpeg" alt="LETRINA">
+  <img src="../letrina.jpeg" alt="LETRINA" width="350">
 </p>
 
 <h3 align="center">Nuestros cachibaches</h3>
